@@ -1,0 +1,16 @@
+Cython==0.29.32
+imageio==2.22.0
+numpy==1.23.3
+Panda3D==1.10.12
+panda3d-gltf==0.13
+panda3d-simplepbr==0.10
+pandas==1.5.0
+Pillow==9.2.0
+pyobjc-core==8.5.1
+pyobjc-framework-Cocoa==8.5.1
+pyperclip==1.8.2
+python-dateutil==2.8.2
+pytz==2022.2.1
+screeninfo==0.8.1
+six==1.16.0
+ursina==5.0.0
